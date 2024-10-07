@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "144058066908",
+    "firebase_url": "https://thread-89e53-default-rtdb.firebaseio.com",
+    "project_id": "thread-89e53",
+    "storage_bucket": "thread-89e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144058066908:android:f440ab549eb6923e029119",
+        "android_client_info": {
+          "package_name": "com.example.threads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwB0oCXjU7nLyWVYcaiFrJOnCsHVWYfS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
